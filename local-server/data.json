@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "questionId": "q1788881977880",
+      "questionText": "Which algorithm is commonly used for binary classification?",
+      "options": [
+        "Linear Regression",
+        "Logistic Regression",
+        "Apriori",
+        "K-Means"
+      ],
+      "correctAnswer": 1,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788882748773",
+      "questionText": "In Machine Learning, which technique is used to reduce overfitting?",
+      "options": [
+        "Regularization",
+        "Normalization",
+        "Compilation",
+        "Tokenization"
+      ],
+      "correctAnswer": 0,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788882815160",
+      "questionText": "Which algorithm is used for clustering?",
+      "options": [
+        "K-Means",
+        "Linear Regression",
+        "Linear Regression",
+        "Naive Bayes"
+      ],
+      "correctAnswer": 0,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788882939061",
+      "questionText": "CNNs are particularly effective for processing:",
+      "options": [
+        "Images",
+        "Database tables",
+        "Network packets",
+        "Operating systems"
+      ],
+      "correctAnswer": 0,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788882986731",
+      "questionText": "Which activation function is commonly used in neural networks?",
+      "options": [
+        "FIFO",
+        "HTTP",
+        "ReLU",
+        "SQL"
+      ],
+      "correctAnswer": 2,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883050715",
+      "questionText": "What is the primary purpose of a loss function?",
+      "options": [
+        "Store data",
+        "Measure prediction error",
+        "Increase RAM",
+        "Encrypt data"
+      ],
+      "correctAnswer": 1,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883100597",
+      "questionText": "Which metric is used to evaluate classification models?",
+      "options": [
+        "CPU speed",
+        "File size",
+        "RAM capacity",
+        "Precision"
+      ],
+      "correctAnswer": 3,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883151536",
+      "questionText": "Which algorithm is based on Bayes' theorem?",
+      "options": [
+        "K-Means",
+        "KNN",
+        "Naive Bayes",
+        "DFS"
+      ],
+      "correctAnswer": 2,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883225468",
+      "questionText": "What is the purpose of feature scaling?",
+      "options": [
+        "Bring features to comparable scales",
+        "Delete features",
+        "Increase dataset size",
+        "Compile the program"
+      ],
+      "correctAnswer": 0,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883272495",
+      "questionText": "Which technique converts categorical values into binary columns?",
+      "options": [
+        "Gradient Descent",
+        "One-Hot Encoding",
+        "Backpropagation",
+        "PCA"
+      ],
+      "correctAnswer": 1,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883312830",
+      "questionText": "Which algorithm finds the shortest path in a weighted graph with non-negative edges?",
+      "options": [
+        "BFS",
+        "DFS",
+        "Binary Search",
+        "Dijkstra's Algorithm"
+      ],
+      "correctAnswer": 3,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883360057",
+      "questionText": "Which data structure follows LIFO?",
+      "options": [
+        "Queue",
+        "Linked List",
+        "Stack",
+        "Graph"
+      ],
+      "correctAnswer": 2,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883404464",
+      "questionText": "What is the average time complexity of binary search?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(n²)",
+        "O(n log n)"
+      ],
+      "correctAnswer": 1,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883447067",
+      "questionText": "Which data structure is commonly used in BFS?",
+      "options": [
+        "Stack",
+        "Heap",
+        "Array",
+        "Queue"
+      ],
+      "correctAnswer": 3,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883491226",
+      "questionText": "Which normal form removes partial dependency?",
+      "options": [
+        "1NF",
+        "3NF",
+        "2NF",
+        "BCNF"
+      ],
+      "correctAnswer": 2,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883530751",
+      "questionText": "Which SQL command completely removes a table?",
+      "options": [
+        "DELETE",
+        "CLEAR",
+        "REMOVE",
+        "DROP"
+      ],
+      "correctAnswer": 3,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883571116",
+      "questionText": "Which key uniquely identifies each record in a relational table?",
+      "options": [
+        "Foreign Key",
+        "Primary Key",
+        "Secondary Key",
+        "Alternate Key"
+      ],
+      "correctAnswer": 1,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883607404",
+      "questionText": "Which protocol is connection-oriented?",
+      "options": [
+        "UDP",
+        "IP",
+        "ICMP",
+        "TCP"
+      ],
+      "correctAnswer": 3,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883641342",
+      "questionText": "Which component of an operating system manages processes and memory?",
+      "options": [
+        "Browser",
+        "Compiler",
+        "Kernel",
+        "Editor"
+      ],
+      "correctAnswer": 2,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    },
+    {
+      "questionId": "q1788883755348",
+      "questionText": "Which CPU scheduling algorithm can cause starvation?",
+      "options": [
+        "FCFS",
+        "Priority Scheduling",
+        "Round Robin",
+        "Round Robin"
+      ],
+      "correctAnswer": 1,
+      "marks": 1,
+      "difficulty": "Medium",
+      "category": "General"
+    }
+  ],
+  "attempts": {
+    "KJ23MCA001": [
+      {
+        "score": 1,
+        "totalMarks": 4,
+        "submittedAt": "2026-09-08T07:26:00.482Z"
+      }
+    ],
+    "26MCAD30": [
+      {
+        "score": 1,
+        "totalMarks": 3,
+        "submittedAt": "2026-09-08T09:41:25.007Z"
+      }
+    ]
+  },
+  "names": {
+    "KJ23MCA001": "KJ23MCA001",
+    "26MCAD30": "26MCAD30"
+  }
+}
